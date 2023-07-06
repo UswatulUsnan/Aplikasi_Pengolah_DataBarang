@@ -18,3 +18,4 @@ NAMA KELOMPOK
  6. commons-logging-1.1
  7. groovy-all-2.0.1
  8. jasperreports-5.6.0
+# lokasi dowloadnya adalah 
