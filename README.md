@@ -22,6 +22,4 @@ NAMA KELOMPOK
 1. https://sourceforge.net/projects/jasperreports/files/archive/jasperreports/JasperReports%205.6.0/
 2. https://jarcasting.com/artifacts/mysql/mysql-connector-java/5.1.18/
 3. http://www.java2s.com/Code/Jar/c/Downloadcommonsbeanutils182jar.htm
-4. http://www.java2s.com/Code/Jar/c/Downloadcommonscollections321100jar.htm
-5. http://www.java2s.com/Code/Jar/c/Downloadcommonsdigester21jar.htm
-6. https://repo1.maven.org/maven2/commons-collections/commons-collections/3.2.1/
+
