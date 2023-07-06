@@ -19,4 +19,4 @@ NAMA KELOMPOK
  7. groovy-all-2.0.1
  8. jasperreports-5.6.0
 # lokasi dowloadnya adalah 
-https://sourceforge.net/projects/jasperreports
+https://sourceforge.net/projects/jasperreports/files/archive/jasperreports/JasperReports%205.6.0/
