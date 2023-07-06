@@ -8,7 +8,7 @@ NAMA KELOMPOK
 5. NI NYOMAN DIAN TRI APRILIA (21103037) 
 
 # Versi netbeans yang digunakan adalah 8.2
-# versi jdk yang dipakai adalah 18
+# versi jdk yang dipakai adalah JDK 1.8
 # Plugin yang dipakai adalah 
  1. mysql-connector-java-5.1.18
  2. commons-beanutils-1.8.2
