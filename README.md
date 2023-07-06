@@ -1,4 +1,4 @@
-# Aplikasi_inventaris
+# Aplikasi_Pengolah_DataBarang
 
 NAMA KELOMPOK
 1. USWATUL USNAN (21103032)
