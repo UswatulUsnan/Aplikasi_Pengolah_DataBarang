@@ -10,10 +10,11 @@ NAMA KELOMPOK
 #Versi netbeans yang digunakan adalah 8.2
 #versi jdk yang dipakai adalah 18
 #Plugin yang dipakai adalah 
-  mysql-connector-java-5.1.18
-  commons-beanutils-1.8.2
-  commons-collections-3.2.1
-  commons-javaflow-20060411
-  commons-logging-1.1
-  groovy-all-2.0.1
-  jasperreports-5.6.0
+ 1. mysql-connector-java-5.1.18
+ 2. commons-beanutils-1.8.2
+ 3. commons-collections-3.2.1
+ 4. commons-digester-2.1
+ 5. commons-javaflow-20060411
+ 6. commons-logging-1.1
+ 7. groovy-all-2.0.1
+ 8. jasperreports-5.6.0
