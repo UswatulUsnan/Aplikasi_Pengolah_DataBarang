@@ -20,3 +20,7 @@ NAMA KELOMPOK
  8. jasperreports-5.6.0
 # lokasi dowloadnya adalah 
 https://sourceforge.net/projects/jasperreports/files/archive/jasperreports/JasperReports%205.6.0/
+https://jarcasting.com/artifacts/mysql/mysql-connector-java/5.1.18/
+http://www.java2s.com/Code/Jar/c/Downloadcommonsbeanutils182jar.htm
+http://www.java2s.com/Code/Jar/c/Downloadcommonscollections321100jar.htm
+http://www.java2s.com/Code/Jar/c/Downloadcommonsdigester21jar.htm
