@@ -7,9 +7,9 @@ NAMA KELOMPOK
 4. NI KOMANG TRI APRIYANI (21103003)
 5. NI NYOMAN DIAN TRI APRILIA (21103037) 
 
-#Versi netbeans yang digunakan adalah 8.2
-#versi jdk yang dipakai adalah 18
-#Plugin yang dipakai adalah 
+# Versi netbeans yang digunakan adalah 8.2
+# versi jdk yang dipakai adalah 18
+# Plugin yang dipakai adalah 
  1. mysql-connector-java-5.1.18
  2. commons-beanutils-1.8.2
  3. commons-collections-3.2.1
